@@ -1,0 +1,11 @@
+﻿Build started 12/1/2015 9:30:31 AM.
+     1>Project "E:\CIS020\CIS020_F2015_Lab12\CIS020_F2015_Lab12\CIS020_F2015_Lab12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CIS020_F2015_Lab12.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt assemble.cpp
+         assemble.cpp
+     1>e:\cis020\cis020_f2015_lab12\cis020_f2015_lab12\assemble.cpp : fatal error C1853: 'Debug\CIS020_F2015_Lab12.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+     1>Done Building Project "E:\CIS020\CIS020_F2015_Lab12\CIS020_F2015_Lab12\CIS020_F2015_Lab12.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.99

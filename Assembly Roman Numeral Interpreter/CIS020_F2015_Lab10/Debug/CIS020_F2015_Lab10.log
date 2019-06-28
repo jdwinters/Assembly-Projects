@@ -1,0 +1,16 @@
+﻿Build started 11/1/2015 7:22:35 PM.
+     1>Project "G:\CIS020\CIS020_F2015_Lab10\CIS020_F2015_Lab10\CIS020_F2015_Lab10.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling roman.asm...
+         cmd.exe /C "C:\Users\Winters\AppData\Local\Temp\tmpaeea5c52294548e892d9393389ba9e98.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\roman.obj" /Fl"CIS020_F2015_Lab10.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Taroman.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\CIS020\CIS020_F2015_Lab10\Debug\CIS020_F2015_Lab10.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\Irvine irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\CIS020\CIS020_F2015_Lab10\Debug\CIS020_F2015_Lab10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\CIS020\CIS020_F2015_Lab10\Debug\CIS020_F2015_Lab10.lib" /MACHINE:X86 /SAFESEH:NO Debug\IO_Procs.obj
+         Debug\main.obj
+         Debug\roman.obj
+         CIS020_F2015_Lab10.vcxproj -> G:\CIS020\CIS020_F2015_Lab10\Debug\CIS020_F2015_Lab10.exe
+     1>Done Building Project "G:\CIS020\CIS020_F2015_Lab10\CIS020_F2015_Lab10\CIS020_F2015_Lab10.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.65
